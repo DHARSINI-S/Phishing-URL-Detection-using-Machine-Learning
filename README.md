@@ -1,4 +1,4 @@
-##PHISHING URL DETECTION
+PHISHING URL DETECTION
 
 ## Table of Content
   * [Introduction](#introduction)
